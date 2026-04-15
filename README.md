@@ -4,7 +4,9 @@
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:00d4ff&height=200&section=header&text=Dibyendu%20Patra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Python%20%7C%20Django%20%7C%20AI%20%2526%20ML%20Enthusiast&descAlignY=58&descColor=00d4ff&animation=fadeIn" /> -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:00d4ff&height=200&section=header&text=Dibyendu%20Patra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Python%20%7C%20Django%20%7C%20AI%20and%20ML%20Enthusiast&descAlignY=58&descColor=00d4ff&animation=fadeIn" />
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=MCA+Graduate+%7C+Kalyani+University;Python+%26+Django+Developer;AI+%7C+ML+%7C+Deep+Learning+Explorer;Open+to+Work+%F0%9F%9A%80)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=MCA+Graduate+%7C+Kalyani+University;Python+%26+Django+Developer;AI+%7C+ML+%7C+Deep+Learning+Explorer;Open+to+Work+🚀" />
+</p>
 
 <br/>
 
